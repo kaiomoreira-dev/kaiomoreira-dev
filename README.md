@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I' am Kaio Moreira 👋
 
 <!--
-**kaiomoreira-dev/kaiomoreira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am determined to add value, evolve professionally and establish a professional career as a Junior Back-end developer identifying myself with Nodejs, Javascript, Typescript, Express and SQL skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning with [Rocketseat](https://github.com/Rocketseat)
+
+- 💬 Ask me about Nodejs, Javascript, Typescript e SQL.
+
+
+</br>
+</br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/kaio-moreira/ target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
 -->
