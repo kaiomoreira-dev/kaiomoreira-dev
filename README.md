@@ -6,6 +6,6 @@ I am determined to add value, evolve professionally and establish a professional
 
 - 🌱 I’m currently learning with [Rocketseat](https://github.com/Rocketseat)
 
-- 💬 Ask me about Nodejs, Javascript, Typescript e SQL.
+- 💬 Ask me about Nodejs, Javascript, Typescript, NoSql e SQL.
 
 - 👨‍💻 More at likendin [kaioremoreira-dev](https://www.linkedin.com/in/kaio-moreira/)
